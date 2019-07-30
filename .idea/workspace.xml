@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec381a7c-5213-4cff-a88b-c55312cb5e74" name="Default" comment="app.js window.onerror function delete return true">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/parent_cms" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/student_performance" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/teacher_cms" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/hu/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/hu/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/ztree/changelog" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/ztree/changelog" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/index.html" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/cs/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/cs/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/cs/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/cs/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/da/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/da/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/da/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/da/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/de/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/de/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/de/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/de/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/en/uk/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/en/uk/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/es/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/es/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/es/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/es/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/fi/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/fi/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/fi/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/fi/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/fr/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/fr/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/fr/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/fr/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/hu/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/hu/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/it/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/it/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/it/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/it/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/nl/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/nl/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/nl/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/nl/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/no/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/no/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/no/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/no/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pl/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pl/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pl/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pl/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pt/br/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pt/br/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pt/br/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pt/br/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pt/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pt/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pt/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/pt/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/ru/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/ru/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/ru/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/ru/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/sv/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/sv/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/sv/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/sv/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/ckeditor/_source/plugins/listblock/plugin.js" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/ckeditor/_source/plugins/listblock/plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/admin_files/controls/uploadify.ashx" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/admin_files/controls/uploadify.ashx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/flexpaper.master" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/flexpaper.master" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/services/containstext.ashx" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/services/containstext.ashx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/services/numpages.ashx" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/services/numpages.ashx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/services/view.ashx" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/flexpaper/aspnet/services/view.ashx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/settings.php" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/school/settings.php" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/school/settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/sites.php" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/sites.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="access.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/nginx/access.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/nginx/sites-enabled/default">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/nginx/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/php/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="php.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../MAMP/conf/php7.3.1/php.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="986" column="0" lean-forward="true" selection-start-line="986" selection-start-column="0" selection-end-line="986" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="good_class_manage.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/css/good_class_manage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="514" column="0" lean-forward="true" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.log" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logs/nginx/error.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="good_class_manage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_manage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="244" column="21" lean-forward="false" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+              <folding>
+                <marker date="1564478840735" expanded="true" signature="5381:5398" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="13722:13728" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="13728:13734" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="13734:13740" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="13912:13918" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="13918:13924" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="13924:13930" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="14096:14102" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="14102:14108" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="14108:14114" ph=" " />
+                <marker date="1564478840735" expanded="true" signature="29443:29454" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="32728:32790" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="35172:36005" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="35399:35978" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="35569:35946" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="35627:35910" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="35760:35869" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="36175:36552" ph="..." />
+                <marker date="1564478840735" expanded="true" signature="36400:36525" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="php.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/php/php.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="1046" column="0" lean-forward="false" selection-start-line="1046" selection-start-column="0" selection-end-line="1046" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>good-class-manage-class-page-grade-options</find>
+      <find>asset-cms</find>
+      <find>good-class-manage-switch-btn-is-checked</find>
+      <find>good-class-manage-text-common</find>
+      <find>.good-class-manage-switch-btn-is-no-checked</find>
+      <find>good-class-small-item</find>
+      <find>good-class-big-item</find>
+      <find>good-class-manage-is-no-checked</find>
+      <find>good-class-small-item-list</find>
+      <find>setAddRecordContainerVisibility</find>
+      <find>good-class-manage-add-record-line-container</find>
+      <find>mcrypt</find>
+      <find>pa</find>
+      <find>good-class-small-item-list-hover</find>
+      <find>tmpSubmitData</find>
+      <find>cleari</find>
+      <find>nproc</find>
+      <find>recordAddConfirm</find>
+      <find>您可以尝试清除浏览器缓存或者使用其他浏览器登录</find>
+      <find>setPage</find>
+      <find>good-class-submit-pop</find>
+      <find>ubmit-pop-box</find>
+      <find>submit-pop-content</find>
+      <find>submit-pop-box</find>
+      <find>good-class-base64-image-wrap</find>
+      <find>submit-pop-button</find>
+      <find>submit-student-info</find>
+      <find>#good-class-base64-image-wrap</find>
+      <find>submitRecord</find>
+      <find>mysql</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>good-class-manage</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/test.html" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/index.html" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/sites.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/dorm.html" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/class.html" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/good_class.html" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.js" />
+        <option value="$PROJECT_DIR$/services/nginx/sites-enabled/default" />
+        <option value="$PROJECT_DIR$/services/php/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/services/php/php.ini" />
+        <option value="$PROJECT_DIR$/logs/nginx/error.log" />
+        <option value="$PROJECT_DIR$/logs/nginx/access.log" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/css/good_class_manage.css" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_manage.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="38" />
+    <option name="y" value="23" />
+    <option name="width" value="1838" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhiwei" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhiwei" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+        <PATH vcs="svn" revision="20709">$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.js</PATH>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/teacher_archive" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/teacher_archive" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec381a7c-5213-4cff-a88b-c55312cb5e74" name="Default" comment="" />
+      <created>1564365752751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564365752751</updated>
+      <workItem from="1564448938045" duration="23279000" />
+    </task>
+    <task id="LOCAL-00001" summary="#6651">
+      <created>1564478921036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564478921036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23279000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="38" y="23" width="1838" height="1030" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26224944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#6651" />
+    <option name="LAST_COMMIT_MESSAGE" value="#6651" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/sites.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/asset_cms/js/asset_cms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="64" column="11" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="64" selection-end-column="11" />
+          <folding>
+            <marker date="1538297874000" expanded="true" signature="7215:7333" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="8342:8631" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="8974:9017" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="10585:11330" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="10778:11298" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="11401:12144" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="11593:12112" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="12841:12876" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="12970:13003" ph="..." />
+            <marker date="1538297874000" expanded="true" signature="13303:13432" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/asset_cms/css/asset_cms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="63" lean-forward="false" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/dorm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="57" lean-forward="false" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/good_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="38" column="120" lean-forward="false" selection-start-line="38" selection-start-column="120" selection-end-line="38" selection-end-column="120" />
+          <folding>
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1405">
+          <caret line="202" column="41" lean-forward="false" selection-start-line="202" selection-start-column="41" selection-end-line="202" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="75" column="13" lean-forward="false" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+          <folding>
+            <marker date="1564474842981" expanded="true" signature="31261:32413" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="31318:31343" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="31344:31547" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="31597:32331" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="33015:33238" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="34096:34351" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="34155:34351" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="34203:34351" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="34427:34585" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="34800:35036" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="60650:60765" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="60942:61008" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="61022:61298" ph="..." />
+            <marker date="1564474842981" expanded="true" signature="61118:61189" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/nginx/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/nginx/sites-enabled/default">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/nginx/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/conf/php7.3.1/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="986" column="0" lean-forward="true" selection-start-line="986" selection-start-column="0" selection-end-line="986" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/css/good_class_manage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="514" column="0" lean-forward="true" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_manage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="244" column="21" lean-forward="false" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+          <folding>
+            <marker date="1564478840735" expanded="true" signature="5381:5398" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="13722:13728" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="13728:13734" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="13734:13740" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="13912:13918" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="13918:13924" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="13924:13930" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="14096:14102" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="14102:14108" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="14108:14114" ph=" " />
+            <marker date="1564478840735" expanded="true" signature="29443:29454" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="32728:32790" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="35172:36005" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="35399:35978" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="35569:35946" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="35627:35910" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="35760:35869" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="36175:36552" ph="..." />
+            <marker date="1564478840735" expanded="true" signature="36400:36525" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/php/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="1046" column="0" lean-forward="false" selection-start-line="1046" selection-start-column="0" selection-end-line="1046" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/php/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/nginx/access.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/nginx/error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
