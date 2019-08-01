@@ -3,6 +3,13 @@
   <component name="SvnBranchConfigurationManager">
     <option name="myConfigurationMap">
       <map>
+        <entry key="$PROJECT_DIR$/../../MAMP/htdocs/drupal8">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="svn://wa.eguidedog.net/weike/source/drupal8" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../MAMP/htdocs/weike/src">
           <value>
             <SvnBranchConfiguration>

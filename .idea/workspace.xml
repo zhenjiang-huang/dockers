@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec381a7c-5213-4cff-a88b-c55312cb5e74" name="Default" comment="app.js window.onerror function delete return true">
+    <list default="true" readonly="true" id="ec381a7c-5213-4cff-a88b-c55312cb5e74" name="Default" comment="app.js window.onerror function delete return true">
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/parent_cms" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/student_performance" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/teacher_cms" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/templates/cj3_teacher_name_demo.xls" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/templates/cj3_teacher_name_demo.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/templates/students.xls" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/templates/students.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/templates/teacher_name_demo.xls" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/templates/teacher_name_demo.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/templates/teachers.xls" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/templates/teachers.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/delete-direction.png" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/delete-direction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/down-direction.png" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/down-direction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/print.gif" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/print.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/questionnaire.gif" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/questionnaire.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/up-direction.png" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/questionnaire/view/up-direction.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/hu/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/hu/functions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/ztree/changelog" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/ztree/changelog" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/index.html" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/composer.lock" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/sites/default/default.services.yml" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/sites/default/default.services.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/sites/default/settings.php" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/sites/default/settings.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/cs/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/cs/config" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/cs/functions" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/cs/functions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/da/config" afterPath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/all/libraries/PHPExcel/PHPExcel/locale/da/config" />
@@ -56,9 +67,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="access.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/nginx/access.log">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="redis.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/redis/redis.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -67,101 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services/nginx/sites-enabled/default">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services/nginx/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/services/php/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="php.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../MAMP/conf/php7.3.1/php.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="986" column="0" lean-forward="true" selection-start-line="986" selection-start-column="0" selection-end-line="986" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="good_class_manage.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/css/good_class_manage.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="514" column="0" lean-forward="true" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error.log" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logs/nginx/error.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="good_class_manage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_manage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="244" column="21" lean-forward="false" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
-              <folding>
-                <marker date="1564478840735" expanded="true" signature="5381:5398" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="13722:13728" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="13728:13734" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="13734:13740" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="13912:13918" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="13918:13924" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="13924:13930" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="14096:14102" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="14102:14108" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="14108:14114" ph=" " />
-                <marker date="1564478840735" expanded="true" signature="29443:29454" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="32728:32790" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="35172:36005" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="35399:35978" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="35569:35946" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="35627:35910" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="35760:35869" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="36175:36552" ph="..." />
-                <marker date="1564478840735" expanded="true" signature="36400:36525" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="php.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services/php/php.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="1046" column="0" lean-forward="false" selection-start-line="1046" selection-start-column="0" selection-end-line="1046" selection-end-column="24" />
+            <state relative-caret-position="442">
+              <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -188,42 +109,44 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>good-class-manage-class-page-grade-options</find>
-      <find>asset-cms</find>
-      <find>good-class-manage-switch-btn-is-checked</find>
-      <find>good-class-manage-text-common</find>
-      <find>.good-class-manage-switch-btn-is-no-checked</find>
-      <find>good-class-small-item</find>
-      <find>good-class-big-item</find>
-      <find>good-class-manage-is-no-checked</find>
-      <find>good-class-small-item-list</find>
-      <find>setAddRecordContainerVisibility</find>
-      <find>good-class-manage-add-record-line-container</find>
-      <find>mcrypt</find>
-      <find>pa</find>
-      <find>good-class-small-item-list-hover</find>
-      <find>tmpSubmitData</find>
-      <find>cleari</find>
-      <find>nproc</find>
-      <find>recordAddConfirm</find>
-      <find>您可以尝试清除浏览器缓存或者使用其他浏览器登录</find>
-      <find>setPage</find>
-      <find>good-class-submit-pop</find>
-      <find>ubmit-pop-box</find>
-      <find>submit-pop-content</find>
-      <find>submit-pop-box</find>
+      <find>teacher-cms/api</find>
+      <find>url</find>
+      <find>good_class_api_v2_record_add</find>
+      <find>good_class_add_record_for_dorm</find>
+      <find>数不能为空</find>
+      <find>学生对象没有找到项目</find>
+      <find>服务器发生错误</find>
+      <find>good_class_api_v2_get_item</find>
+      <find>weike_utility_users_compatible_get_year_by_grade</find>
+      <find>good-class/api/v2/manage/record</find>
+      <find>good_class_add_record_get_building_room_student_uids</find>
+      <find>good_class_api_v2_record_add_exec_function</find>
+      <find>good-class/api/v2/manage/record/add</find>
+      <find>.good-class-pic-pop-box</find>
+      <find>.common-pop</find>
+      <find>good-class</find>
+      <find>loadDailyAndWeeklyGradePageDataAndCallback</find>
+      <find>fpm</find>
       <find>good-class-base64-image-wrap</find>
-      <find>submit-pop-button</find>
-      <find>submit-student-info</find>
-      <find>#good-class-base64-image-wrap</find>
-      <find>submitRecord</find>
-      <find>mysql</find>
+      <find>XUAN_KAO</find>
+      <find>clear</find>
+      <find>111</find>
+      <find>.list-content-item img</find>
+      <find>getClass</find>
+      <find>问卷管理1111</find>
+      <find>getClassList</find>
+      <find>student_detail</find>
+      <find>_install</find>
+      <find>找不到类别</find>
+      <find>good_class_user_can_add_record</find>
     </findStrings>
     <replaceStrings>
       <replace>good-class-manage</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2</dir>
+      <dir>$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/weike_transcripts</dir>
+      <dir>$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -235,15 +158,42 @@
         <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/dorm.html" />
         <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/class.html" />
         <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/good_class.html" />
-        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.js" />
         <option value="$PROJECT_DIR$/services/nginx/sites-enabled/default" />
-        <option value="$PROJECT_DIR$/services/php/Dockerfile" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/services/php/php.ini" />
         <option value="$PROJECT_DIR$/logs/nginx/error.log" />
         <option value="$PROJECT_DIR$/logs/nginx/access.log" />
+        <option value="$PROJECT_DIR$/www/phpmyadmin/libraries/config.default.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/freshman/freshman.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/executive/js/executive.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/asset_cms/js/asset_cms.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class/js/good_class.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/leave/js/leave.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/parent_cms/parent_cms.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/parent_cms/parent_cms_record.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/questionnaire/js/questionnaire.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/teacher_check/teacher_check.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/teacher_cms/teacher_cms.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/teacher_leave/teacher_leave.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/good_class/good_class_add.inc" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.css" />
         <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/css/good_class_manage.css" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class.js" />
         <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_manage.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj3/cj3_student.js" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/src/Form/Manage/Index.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/questionnaire.routing.yml" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/src/Form/Manage/Create.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/school_users.install" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/src/UserManage/UsersAdd.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/core/lib/Drupal/Core/Database/Query/Insert.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/core/lib/Drupal/Core/Database/Query/InsertTrait.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/src/Model/ClassSchedule.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/src/Form/ImportClassSchedule.php" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/good_class/good_class.module" />
+        <option value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/good_class/good_class_v2/good_class_api_v2.inc" />
+        <option value="$PROJECT_DIR$/services/php/Dockerfile" />
       </list>
     </option>
   </component>
@@ -283,6 +233,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,18 +244,70 @@
             <path>
               <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhiwei" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="services" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhiwei" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="services" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhiwei" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="services" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhiwei" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="good_class" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="zhiwei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="good_class" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="good_class_v2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,6 +315,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/services/php/plugins" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/src/Form/Manage" />
+      <recent name="$PROJECT_DIR$/services/php/plugins" />
+    </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -327,6 +340,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
+          <PATH vcs="svn" revision="20745">$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/src/Form/ImportClassSchedule.php</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -391,7 +405,6 @@
         <option name="mySupportsDeletion" value="false" />
         <option name="myCanBeAbsent" value="false" />
         <option name="myId" value="MERGED" />
-        <PATH vcs="svn" revision="20709">$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.js</PATH>
       </FILE-GROUP>
       <FILE-GROUP>
         <option name="myUpdateName" value="Not in repository" />
@@ -440,10 +453,15 @@
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="SvnFileUrlMappingImpl">
     <option name="myMappingRoots">
       <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8" />
+        </SvnCopyRootSimple>
         <SvnCopyRootSimple>
           <option name="myVcsRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
           <option name="myCopyRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
@@ -456,6 +474,10 @@
     </option>
     <option name="myMoreRealMappingRoots">
       <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/drupal8" />
+        </SvnCopyRootSimple>
         <SvnCopyRootSimple>
           <option name="myVcsRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
           <option name="myCopyRoot" value="$PROJECT_DIR$/../../MAMP/htdocs/weike/src" />
@@ -474,7 +496,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564365752751</updated>
-      <workItem from="1564448938045" duration="23279000" />
+      <workItem from="1564448938045" duration="24055000" />
+      <workItem from="1564534422263" duration="16396000" />
+      <workItem from="1564620670892" duration="21233000" />
     </task>
     <task id="LOCAL-00001" summary="#6651">
       <created>1564478921036</created>
@@ -483,31 +507,96 @@
       <option name="project" value="LOCAL" />
       <updated>1564478921036</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#6662">
+      <created>1564560592043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564560592043</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#6651">
+      <created>1564567088039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564567088039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#6651">
+      <created>1564625671040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564625671041</updated>
+    </task>
+    <task id="LOCAL-00005" summary="#6651">
+      <created>1564625910035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564625910035</updated>
+    </task>
+    <task id="LOCAL-00006" summary="debug">
+      <created>1564626826034</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564626826034</updated>
+    </task>
+    <task id="LOCAL-00007" summary="#6651">
+      <created>1564627082031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564627082032</updated>
+    </task>
+    <task id="LOCAL-00008" summary="#6660">
+      <created>1564627923031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564627923031</updated>
+    </task>
+    <task id="LOCAL-00009" summary="good class debug">
+      <created>1564629089033</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564629089034</updated>
+    </task>
+    <task id="LOCAL-00010" summary="#6660">
+      <created>1564651076029</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1564651076029</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23279000" />
+    <option name="totallyTimeSpent" value="61684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1838" height="1030" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26224944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24721603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -518,58 +607,390 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="#6662" />
+    <MESSAGE value="debug" />
     <MESSAGE value="#6651" />
-    <option name="LAST_COMMIT_MESSAGE" value="#6651" />
+    <MESSAGE value="good class debug" />
+    <MESSAGE value="#6660" />
+    <option name="LAST_COMMIT_MESSAGE" value="#6660" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/sites.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/student.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/asset_cms/js/asset_cms.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="64" column="11" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="64" selection-end-column="11" />
+        <state relative-caret-position="282">
+          <caret line="120" column="15" lean-forward="false" selection-start-line="120" selection-start-column="15" selection-end-line="120" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/executive/js/executive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="1711" column="35" lean-forward="false" selection-start-line="1711" selection-start-column="35" selection-end-line="1711" selection-end-column="35" />
           <folding>
-            <marker date="1538297874000" expanded="true" signature="7215:7333" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="8342:8631" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="8974:9017" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="10585:11330" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="10778:11298" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="11401:12144" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="11593:12112" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="12841:12876" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="12970:13003" ph="..." />
-            <marker date="1538297874000" expanded="true" signature="13303:13432" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="8401:8412" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="8413:8625" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="8751:9471" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="8806:9421" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="8865:9187" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="8936:8947" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="9011:9017" ph=" " />
+            <marker date="1564558405951" expanded="true" signature="9017:9023" ph=" " />
+            <marker date="1564558405951" expanded="true" signature="9254:9266" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="16761:16788" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="17441:17468" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="17588:17604" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="18945:18972" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="19092:19108" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="39321:39340" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="39519:39693" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="39557:39693" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="39599:39611" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="39822:40010" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="43213:43441" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="43568:43799" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="46503:46521" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="46649:46924" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="46698:46924" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="46752:46764" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="47369:47734" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="50607:50619" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="50620:50866" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="50677:50689" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="50958:51661" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="51009:51615" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="51060:51387" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="51123:51134" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="51212:51218" ph=" " />
+            <marker date="1564558405951" expanded="true" signature="51218:51224" ph=" " />
+            <marker date="1564558405951" expanded="true" signature="51446:51458" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="55134:55384" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="55178:55384" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="55277:55289" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="56278:56519" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="59179:59196" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="59317:59333" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="59842:59859" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="59976:59992" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="71959:71976" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="72230:72262" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="72928:73187" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="72969:73187" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="74276:74590" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="77980:78362" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="78110:78362" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="78647:78768" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="79146:79517" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="79653:79900" ph="..." />
+            <marker date="1564558405951" expanded="true" signature="80059:80273" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/asset_cms/css/asset_cms.css">
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/freshman/freshman.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="54" column="51" lean-forward="false" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+          <folding>
+            <marker date="1564557651310" expanded="true" signature="3700:3926" ph="..." />
+            <marker date="1564557651310" expanded="true" signature="3730:3817" ph="..." />
+            <marker date="1564557651310" expanded="true" signature="5432:5738" ph="..." />
+            <marker date="1564557651310" expanded="true" signature="5541:5630" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/parent_cms/parent_cms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="334" column="39" lean-forward="false" selection-start-line="334" selection-start-column="39" selection-end-line="334" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/parent_cms/parent_cms_record.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="565" column="39" lean-forward="false" selection-start-line="565" selection-start-column="39" selection-end-line="565" selection-end-column="39" />
+          <folding>
+            <marker date="1564559866044" expanded="true" signature="12438:12504" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="13773:13905" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="14017:14106" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="14962:15358" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="15011:15314" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="15064:15264" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="15586:15707" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="17605:17616" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="18118:18239" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="19361:19539" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="19779:19896" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="20422:20532" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="20763:20884" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="22829:22987" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="23165:23376" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="30553:30760" ph="..." />
+            <marker date="1564559866044" expanded="true" signature="30599:30760" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/questionnaire/js/questionnaire.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="277" column="43" lean-forward="false" selection-start-line="277" selection-start-column="43" selection-end-line="277" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/teacher_cms/teacher_cms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="151" column="54" lean-forward="false" selection-start-line="151" selection-start-column="39" selection-end-line="151" selection-end-column="54" />
+          <folding>
+            <marker date="1564560126394" expanded="true" signature="9242:9374" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="9486:9575" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="10435:10832" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="10484:10788" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="10537:10738" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="11062:11184" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="13071:13082" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="13590:13712" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="14816:14995" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="15237:15354" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="15884:15994" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="16228:16350" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="23867:24089" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="25899:25912" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="26577:26918" ph="..." />
+            <marker date="1564560126394" expanded="true" signature="27067:27395" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/teacher_leave/teacher_leave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428">
+          <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1564560257663" expanded="true" signature="11875:11890" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/teacher_check/teacher_check.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="824" column="9" lean-forward="false" selection-start-line="824" selection-start-column="9" selection-end-line="824" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/weike_utility/weike_utility_users.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="177" column="9" lean-forward="false" selection-start-line="177" selection-start-column="9" selection-end-line="177" selection-end-column="9" />
+          <folding>
+            <marker date="1561538383833" expanded="true" signature="125:179" ph="SELECT grade... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="536:626" ph="SELECT uid, sessions" />
+            <marker date="1561538383833" expanded="true" signature="968:1163" ph="SELECT u.uid... " />
+            <marker date="1561538383833" expanded="true" signature="1401:1607" ph="SELECT u.uid... " />
+            <marker date="1561538383833" expanded="true" signature="1832:2022" ph="SELECT u.uid... " />
+            <marker date="1561538383833" expanded="true" signature="2235:2411" ph="SELECT u.uid... " />
+            <marker date="1561538383833" expanded="true" signature="2606:2777" ph="SELECT u.uid... " />
+            <marker date="1561538383833" expanded="true" signature="3382:3556" ph="SELECT uid, " />
+            <marker date="1561538383833" expanded="true" signature="4039:4194" ph="SELECT u.uid... " />
+            <marker date="1561538383833" expanded="true" signature="4643:4723" ph="SELECT MAX(y... " />
+            <marker date="1561538383833" expanded="true" signature="6233:6313" ph="SELECT MAX(g... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="7475:7701" ph="SELECT head_... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="8072:8199" ph="SELECT year,... " />
+            <marker date="1561538383833" expanded="true" signature="8423:8550" ph="SELECT uid, " />
+            <marker date="1561538383833" expanded="true" signature="8846:9034" ph="SELECT uid, " />
+            <marker date="1561538383833" expanded="true" signature="9291:9424" ph="SELECT uid, weike_transcripts_score" />
+            <marker date="1561538383833" expanded="true" signature="9647:9786" ph="SELECT uid, weike_transcripts_score" />
+            <marker date="1561538383833" expanded="true" signature="9931:10050" ph="SELECT uid, weike_transcripts_score" />
+            <marker date="1561538383833" expanded="true" signature="10362:10469" ph="SELECT * FRO... weike_school_users" />
+            <marker date="1561538383833" expanded="true" signature="10674:10868" ph="SELECT IFNUL... " />
+            <marker date="1561538383833" expanded="true" signature="11031:11206" ph="SELECT IFNUL... " />
+            <marker date="1561538383833" expanded="true" signature="11477:11686" ph="SELECT u.uid... weike_school_users" />
+            <marker date="1561538383833" expanded="true" signature="11862:12052" ph="SELECT u.uid... weike_school_users" />
+            <marker date="1561538383833" expanded="true" signature="12576:12673" ph="SELECT year,... " />
+            <marker date="1561538383833" expanded="true" signature="13000:13379" ph="SELECT * FRO... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="13603:13827" ph="SELECT head_... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="14131:14620" ph="SELECT DISTI... " />
+            <marker date="1561538383833" expanded="true" signature="14646:15151" ph="SELECT DISTI... " />
+            <marker date="1561538383833" expanded="true" signature="15352:15452" ph="SELECT * FRO... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="15739:15986" ph="SELECT uid,n... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="16266:16503" ph="SELECT u.uid... weike_school_users" />
+            <marker date="1561538383833" expanded="true" signature="16919:17022" ph="SELECT class... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="18600:18643" ph="SELECT * FRO... weike_classes" />
+            <marker date="1561538383833" expanded="true" signature="19003:19276" ph="SELECT u.nam... weike_school_users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/good_class/good_class_add.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="801" column="24" lean-forward="true" selection-start-line="801" selection-start-column="24" selection-end-line="801" selection-end-column="24" />
+          <folding>
+            <marker date="1564623964688" expanded="false" signature="2191:2204" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="2221:2648" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="2263:2630" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="2315:2506" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="2579:2607" ph="..." />
+            <marker date="1564623964688" expanded="false" signature="2820:2833" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="2851:3136" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="2905:3136" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="2965:3073" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="3862:3880" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="3940:4073" ph="..." />
+            <marker date="1564623964688" expanded="false" signature="3959:3965" ph=" " />
+            <marker date="1564623964688" expanded="false" signature="3965:3971" ph=" " />
+            <marker date="1564623964688" expanded="false" signature="3971:3977" ph=" " />
+            <marker date="1564623964688" expanded="false" signature="3977:3983" ph=" " />
+            <marker date="1564623964688" expanded="false" signature="3983:3989" ph=" " />
+            <marker date="1564623964688" expanded="false" signature="3989:3995" ph=" " />
+            <marker date="1564623964688" expanded="true" signature="4113:4325" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="4170:4208" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="4269:4308" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="5432:5607" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="5476:5607" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="5884:6011" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="6673:6852" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="6720:6852" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="7125:7256" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="7938:8116" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="7985:8116" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="9252:9464" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="9587:9643" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="11270:11445" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="11314:11445" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="11718:11845" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="13087:13260" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="13131:13260" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="14814:15024" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="14915:14994" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="15074:15396" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="15236:15373" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="16061:16271" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="16162:16241" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="16322:16625" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="16469:16602" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="17636:17650" ph="..." />
+            <marker date="1564623964688" expanded="false" signature="18195:18208" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="18209:18394" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="18303:18363" ph="..." />
+            <marker date="1564623964688" expanded="false" signature="19235:19248" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="19249:19300" ph="..." />
+            <marker date="1564623964688" expanded="false" signature="19316:19329" ph="..." />
+            <marker date="1564623964688" expanded="true" signature="22842:23006" ph="SELECT u.uid... weike_school_users" />
+            <marker date="1564623964688" expanded="true" signature="26756:26902" ph="SELECT for_d... weike_good_class_config" />
+            <marker date="1564623964688" expanded="true" signature="28519:28650" ph="SELECT uid F... weike_leave_records" />
+            <marker date="1564623964688" expanded="true" signature="31015:31160" ph="SELECT for_d... weike_good_class_config" />
+            <marker date="1564623964688" expanded="true" signature="32699:32845" ph="SELECT for_d... weike_good_class_config" />
+            <marker date="1564623964688" expanded="true" signature="35392:35515" ph="SELECT DISTI... weike_school_users" />
+            <marker date="1564623964688" expanded="true" signature="39544:39684" ph="SELECT uid F... weike_school_users" />
+            <marker date="1564623964688" expanded="true" signature="41831:41966" ph="SELECT for_d... weike_good_class_config" />
+            <marker date="1564623964688" expanded="true" signature="49066:49206" ph="SELECT uid F... weike_school_users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="1668" column="4" lean-forward="false" selection-start-line="1668" selection-start-column="4" selection-end-line="1668" selection-end-column="4" />
+          <folding>
+            <marker date="1564561182240" expanded="true" signature="31373:32525" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="31430:31455" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="31456:31659" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="31709:32443" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="33127:33350" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="34208:34463" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="34267:34463" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="34315:34463" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="34539:34697" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="34912:35148" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="60707:60822" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="60999:61065" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="61079:61355" ph="..." />
+            <marker date="1564561182240" expanded="true" signature="61175:61246" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="544" column="13" lean-forward="false" selection-start-line="544" selection-start-column="13" selection-end-line="544" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="520" column="0" lean-forward="false" selection-start-line="520" selection-start-column="0" selection-end-line="520" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_report.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="562" column="31" lean-forward="false" selection-start-line="562" selection-start-column="31" selection-end-line="562" selection-end-column="31" />
+          <folding>
+            <marker date="1563956452737" expanded="true" signature="5714:5720" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="5720:5726" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="5751:5757" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="5757:5763" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="6529:6535" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="6535:6541" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="6566:6572" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="6572:6578" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="6621:6627" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="6627:6633" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="7411:7417" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="7417:7423" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="7447:7453" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="7453:7459" ph=" " />
+            <marker date="1563956452737" expanded="true" signature="17106:17467" ph="..." />
+            <marker date="1563956452737" expanded="true" signature="17757:18044" ph="..." />
+            <marker date="1563956452737" expanded="true" signature="18335:18706" ph="..." />
+            <marker date="1563956452737" expanded="true" signature="19893:19950" ph="..." />
+            <marker date="1563956452737" expanded="true" signature="23303:23543" ph="..." />
+            <marker date="1563956452737" expanded="true" signature="23913:24153" ph="..." />
+            <marker date="1563956452737" expanded="true" signature="24428:24665" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/php/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2040">
+          <caret line="1037" column="49" lean-forward="false" selection-start-line="1037" selection-start-column="49" selection-end-line="1037" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/css/good_class_manage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="513" column="17" lean-forward="false" selection-start-line="513" selection-start-column="17" selection-end-line="513" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/php/plugins/libzip-1.2.0/m4/.empty">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -577,154 +998,337 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/class.html">
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj3/cj3_student.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="63" lean-forward="false" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+        <state relative-caret-position="-587">
+          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <marker date="1564640180545" expanded="true" signature="12943:13004" ph="..." />
+            <marker date="1564640180545" expanded="true" signature="13189:13201" ph="..." />
+            <marker date="1564640180545" expanded="true" signature="20532:21261" ph="..." />
+            <marker date="1564640180545" expanded="true" signature="20636:21233" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/pages/manages/dorm.html">
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj3/cj3_question.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="57" lean-forward="false" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        <state relative-caret-position="-295">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/index.html">
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj3/cj3_public.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/good_class.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="38" column="120" lean-forward="false" selection-start-line="38" selection-start-column="120" selection-end-line="38" selection-end-column="120" />
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="8" />
           <folding>
-            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1564640180540" expanded="true" signature="5474:5594" ph="..." />
+            <marker date="1564640180540" expanded="true" signature="11308:11424" ph="..." />
+            <marker date="1564640180540" expanded="true" signature="11508:11528" ph="..." />
+            <marker date="1564640180540" expanded="true" signature="11819:11879" ph="..." />
+            <marker date="1564640180540" expanded="true" signature="12115:12175" ph="..." />
+            <marker date="1564640180540" expanded="true" signature="12397:12417" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class.js">
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_student.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1405">
-          <caret line="202" column="41" lean-forward="false" selection-start-line="202" selection-start-column="41" selection-end-line="202" selection-end-column="41" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/cj2/app.js">
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_report_weekly.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="75" column="13" lean-forward="false" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+        <state relative-caret-position="-418">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_report_monthly.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="466" column="58" lean-forward="false" selection-start-line="466" selection-start-column="58" selection-end-line="467" selection-end-column="32" />
           <folding>
-            <marker date="1564474842981" expanded="true" signature="31261:32413" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="31318:31343" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="31344:31547" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="31597:32331" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="33015:33238" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="34096:34351" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="34155:34351" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="34203:34351" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="34427:34585" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="34800:35036" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="60650:60765" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="60942:61008" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="61022:61298" ph="..." />
-            <marker date="1564474842981" expanded="true" signature="61118:61189" ph="..." />
+            <marker date="1563956676041" expanded="true" signature="16232:16376" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/nginx/nginx.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/nginx/sites-enabled/default">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/nginx/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/conf/php7.3.1/php.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="986" column="0" lean-forward="true" selection-start-line="986" selection-start-column="0" selection-end-line="986" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/css/good_class_manage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="514" column="0" lean-forward="true" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/m/good_class_v2/js/good_class_manage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="244" column="21" lean-forward="false" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+        <state relative-caret-position="408">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="25" />
           <folding>
-            <marker date="1564478840735" expanded="true" signature="5381:5398" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="13722:13728" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="13728:13734" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="13734:13740" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="13912:13918" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="13918:13924" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="13924:13930" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="14096:14102" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="14102:14108" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="14108:14114" ph=" " />
-            <marker date="1564478840735" expanded="true" signature="29443:29454" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="32728:32790" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="35172:36005" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="35399:35978" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="35569:35946" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="35627:35910" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="35760:35869" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="36175:36552" ph="..." />
-            <marker date="1564478840735" expanded="true" signature="36400:36525" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="13953:13959" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="13959:13965" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="13965:13971" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="14143:14149" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="14149:14155" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="14155:14161" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="14327:14333" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="14333:14339" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="14339:14345" ph=" " />
+            <marker date="1564629062511" expanded="true" signature="29652:29663" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="32937:32999" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="35381:36214" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="35608:36187" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="35778:36155" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="35836:36119" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="35969:36078" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="36384:36761" ph="..." />
+            <marker date="1564629062511" expanded="true" signature="36609:36734" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/php/php.ini">
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="1046" column="0" lean-forward="false" selection-start-line="1046" selection-start-column="0" selection-end-line="1046" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/questionnaire.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/questionnaire.links.menu.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/questionnaire.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="580" column="30" lean-forward="false" selection-start-line="580" selection-start-column="22" selection-end-line="580" selection-end-column="30" />
+          <folding>
+            <marker date="1564371199160" expanded="true" signature="20249:20352" ph="ALTER TABLE `questionnaire_answer`... " />
+            <marker date="1564371199160" expanded="true" signature="20450:20567" ph="ALTER TABLE `questionnaire_subject_text_analyse`... " />
+            <marker date="1564371199160" expanded="true" signature="20652:20756" ph="ALTER TABLE `questionnaire_targets`... " />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services/php/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        <state relative-caret-position="255">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/src/Form/Manage/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1564642657261" expanded="true" signature="556:1164" ph="..." />
+            <marker date="1564642657261" expanded="true" signature="591:1148" ph="..." />
+            <marker date="1564642657261" expanded="true" signature="626:788" ph="..." />
+            <marker date="1564642657261" expanded="true" signature="833:1133" ph="..." />
+            <marker date="1564642657261" expanded="true" signature="869:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/questionnaire.routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/src/Model/Classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="110" column="44" lean-forward="false" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="44" />
+          <folding>
+            <marker date="1564645661411" expanded="true" signature="178:6437" ph="..." />
+            <marker date="1564645661411" expanded="true" signature="4909:5229" ph="..." />
+            <marker date="1564645661411" expanded="true" signature="5173:5225" ph="..." />
+            <marker date="1564645661411" expanded="true" signature="5237:5575" ph=" 插入班级表. ..." />
+            <marker date="1564645661411" expanded="true" signature="5666:6011" ph="..." />
+            <marker date="1564645661411" expanded="true" signature="5685:5827" ph="..." />
+            <marker date="1564645661411" expanded="true" signature="5875:5993" ph="..." />
+            <marker date="1564645661411" expanded="true" signature="6019:6163" ph=" 根据入学年份和年级删除班级状态表. ..." />
+            <marker date="1564645661411" expanded="true" signature="6239:6434" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/questionnaire/src/Form/Manage/Create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="e#7#83#0#PHP" expanded="true" />
+            <element signature="e#130#160#0#PHP" expanded="true" />
+            <marker date="1564643307549" expanded="true" signature="915:926" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="1117:1127" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="1373:1383" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="1486:1497" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="2296:2306" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="2391:2404" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="2405:2691" ph="..." />
+            <marker date="1564643307549" expanded="false" signature="2442:2456" ph="..." />
+            <marker date="1564643307549" expanded="false" signature="2614:2663" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="3030:3040" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="4065:4671" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="4093:4660" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="4130:4214" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="4260:4645" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="4278:4539" ph="..." />
+            <marker date="1564643307549" expanded="true" signature="4592:4628" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/school_users.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/src/UserManage/UsersAdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="297" column="12" lean-forward="false" selection-start-line="297" selection-start-column="12" selection-end-line="297" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="892" column="20" lean-forward="false" selection-start-line="892" selection-start-column="20" selection-end-line="892" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/core/lib/Drupal/Core/Database/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="605" column="18" lean-forward="false" selection-start-line="605" selection-start-column="18" selection-end-line="605" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/core/lib/Drupal/Core/Database/Query/Insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="56" column="4" lean-forward="false" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/core/lib/Drupal/Core/Database/Query/InsertTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="95" column="46" lean-forward="true" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/src/Model/ClassSchedule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="224" column="32" lean-forward="true" selection-start-line="224" selection-start-column="32" selection-end-line="224" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/modules/custom/school_users/src/Form/ImportClassSchedule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="315" column="40" lean-forward="false" selection-start-line="315" selection-start-column="40" selection-end-line="315" selection-end-column="40" />
+          <folding>
+            <marker date="1564649664906" expanded="true" signature="1035:1550" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="1088:1523" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="1129:1222" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="1263:1356" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="1397:1494" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="1608:1748" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="2022:2213" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="2066:2213" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="2510:2653" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="2692:2825" ph="..." />
+            <marker date="1564649664906" expanded="true" signature="2883:3023" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/good_class/good_class.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="693" column="39" lean-forward="false" selection-start-line="693" selection-start-column="9" selection-end-line="693" selection-end-column="39" />
+          <folding>
+            <marker date="1564651027769" expanded="true" signature="15912:15995" ph="SELECT for_c... weike_good_class_config" />
+            <marker date="1564651027769" expanded="true" signature="21164:21243" ph="SELECT user_... weike_good_class_check_department" />
+            <marker date="1564651027769" expanded="true" signature="22846:22938" ph="SELECT fid F... file_usage" />
+            <marker date="1564651027769" expanded="true" signature="23800:23879" ph="SELECT user_... weike_good_class_check_department" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/sites/default/modules/good_class/good_class_v2/good_class_api_v2.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="535" column="35" lean-forward="false" selection-start-line="535" selection-start-column="35" selection-end-line="535" selection-end-column="35" />
+          <folding>
+            <marker date="1564651027756" expanded="true" signature="9552:9727" ph="SELECT `imag... " />
+            <marker date="1564651027756" expanded="true" signature="10999:11179" ph="SELECT class... weike_good_class_class_month_cache" />
+            <marker date="1564651027756" expanded="true" signature="25734:25865" ph="SELECT uid F... weike_leave_records" />
+            <marker date="1564651027756" expanded="true" signature="38913:39202" ph="SELECT title... " />
+            <marker date="1564651027756" expanded="true" signature="39304:39613" ph="SELECT title... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/nginx/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/redis/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/redis/redis.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -737,18 +1341,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/nginx/access.log">
+    <entry file="file://$PROJECT_DIR$/services/php/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/nginx/error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="442">
+          <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
           <folding />
         </state>
       </provider>
