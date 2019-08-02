@@ -6,34 +6,57 @@ services:
     ports:
       - "80:80"
     volumes:
-      - /Applications/dockers/zhiwei/logs/nginx:/var/log/nginx
-      - /Applications/dockers/zhiwei/www:/var/www/html
+      - /Applications/dockers/zhiwei/logs/nginx:/var/log/nginx:cached
+      - /Applications/dockers/zhiwei/www:/var/www/html:cached
     depends_on:
-      - php-fpm
+      - php-fpm7.3
+      - php-fpm5.6
     networks:
       - zhiweinet
 
-  php-fpm:
-    build: ./services/php
+  php-fpm7.3:
+    build: ./services/php/7.3
     volumes:
-      - /Applications/dockers/zhiwei/www:/var/www/html
+      - /Applications/dockers/zhiwei/www:/var/www/html:cached
     expose:
       - 9000
     depends_on:
       - dbmysql
+      - redis
     networks:
       - zhiweinet
+
+  php-fpm5.6:
+      build: ./services/php/5.6
+      volumes:
+        - /Applications/dockers/zhiwei/www:/var/www/html:cached
+      expose:
+        - 9000
+      depends_on:
+        - dbmysql
+        - redis
+      networks:
+        - zhiweinet
 
   dbmysql:
     build: ./services/mysql
     volumes:
-      - /Applications/dockers/zhiwei/data/mysql:/var/lib/mysql
+      - /Applications/dockers/zhiwei/data/mysql:/var/lib/mysql:cached
     expose:
       - 3306
     environment:
       MYSQL_ROOT_PASSWORD: root
     networks:
       - zhiweinet
+
+  redis:
+      build: ./services/redis
+      volumes:
+        - /Applications/dockers/zhiwei/data/redis:/var/lib/redis:cached
+      expose:
+        - 3389
+      networks:
+        - zhiweinet
 
 networks:
   zhiweinet:

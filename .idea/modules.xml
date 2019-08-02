@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../MAMP/htdocs/drupal8/.idea/drupal8_chengjiyun.iml" filepath="$PROJECT_DIR$/../../MAMP/htdocs/drupal8/.idea/drupal8_chengjiyun.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../MAMP/htdocs/weike/src/.idea/src.iml" filepath="$PROJECT_DIR$/../../MAMP/htdocs/weike/src/.idea/src.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zhiwei.iml" filepath="$PROJECT_DIR$/.idea/zhiwei.iml" />
     </modules>
