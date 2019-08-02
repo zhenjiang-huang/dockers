@@ -6,8 +6,15 @@ server {
 
     root   /var/www/html;
     location / {
-
         try_files $uri $uri/ $uri.html =404;
+    }
+
+    location /drupal8 {
+        try_files $uri $uri/ /drupal8/index.php?$query_string;
+    }
+
+    location /laravel {
+        try_files $uri $uri/ /laravel/public/index.php?$query_string;
     }
 
     error_page   500 502 503 504  /50x.html;
