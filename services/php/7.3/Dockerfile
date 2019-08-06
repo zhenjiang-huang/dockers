@@ -1,6 +1,6 @@
 FROM php:7.3-fpm
 
-ADD php.ini    /usr/local/etc/php/php.ini
+ADD php.ini /usr/local/etc/php/php.ini
 
 WORKDIR /etc/software/plugins
 
@@ -25,5 +25,6 @@ RUN apt-get update && apt-get install -y \
     && docker-php-ext-install -j$(nproc) mysqli pdo_mysql \
     && docker-php-ext-install -j$(nproc) zip \
     && composer config -g repo.packagist composer https://packagist.phpcomposer.com \
-    && pecl install /etc/software/plugins/redis.tgz && echo "extension=redis.so" > /usr/local/etc/php/php.ini
+    && pecl install /etc/software/plugins/redis.tgz && echo "extension=redis.so" > /usr/local/etc/php/php.ini \
+    && pecl install swoole && echo "extension=swoole.so" > /usr/local/etc/php/php.ini
 
