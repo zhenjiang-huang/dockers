@@ -5,6 +5,7 @@ services:
     build: ./services/nginx
     ports:
       - "80:80"
+      - "18306:18306"
     volumes:
       - /Applications/dockers/zhiwei/logs/nginx:/var/log/nginx:cached
       - /Applications/dockers/zhiwei/www:/var/www/html:cached
