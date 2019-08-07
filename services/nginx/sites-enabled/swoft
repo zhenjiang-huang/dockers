@@ -1,0 +1,12 @@
+server {
+    listen       18306;
+    server_name  localhost;
+
+    index  index.php index.html index.htm;
+
+    root   /var/www/html;
+    location / {
+        proxy_pass http://php-fpm7.3:18306;
+    }
+
+}

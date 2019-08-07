@@ -26,5 +26,5 @@ RUN apt-get update && apt-get install -y \
     && docker-php-ext-install -j$(nproc) zip \
     && composer config -g repo.packagist composer https://packagist.phpcomposer.com \
     && pecl install /etc/software/plugins/redis.tgz && echo "extension=redis.so" > /usr/local/etc/php/php.ini \
-    && pecl install swoole && echo "extension=swoole.so" > /usr/local/etc/php/php.ini
+    && pecl install swoole && echo "extension=swoole.so" >> /usr/local/etc/php/php.ini
 
